@@ -1,4 +1,4 @@
-package com.tcc.zelo.freela_providers_app
+package com.tcc.zelo.providers
 
 import io.flutter.embedding.android.FlutterActivity
 
